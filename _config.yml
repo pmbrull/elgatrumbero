@@ -106,8 +106,8 @@ theme_config:
 
 nav:
   home: /
-  articles: /archives/
-  projects: /
+  articles: /entrades/
+  projects: /pins/
 
 ### !CACTUS
 
