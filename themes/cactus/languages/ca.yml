@@ -1,25 +1,25 @@
 nav:
   home: Inici
   about: Qui som 
-  articles: Articles
-  projects: Projectes
+  articles: Entrades
+  projects: Pins
   search: Buscar
 
 footer:
   copyright: Copyright
 
 index:
-  find_me_on: Trobem a
+  find_me_on: Troba'm a
   enum_comma: ','
   enum_and: i
-  articles: Articles
-  projects: Projectes
+  articles: Entrades
+  projects: Pins 📌
 
 post:
   desktop:
     previous: Post Anterior
     next: Post Següent
-    back_to_top: Adalt
+    back_to_top: Corre cap amunt
     share: Compartir Post
   mobile:
     menu: Menú
@@ -35,4 +35,4 @@ pagination:
   page: Pàgina %d de %d
 
 comments:
-  no_js: Si us plau, activa JavaScript per poder veure el contingut.
+  no_js: Si us plau, activa JS per poder veure el contingut.

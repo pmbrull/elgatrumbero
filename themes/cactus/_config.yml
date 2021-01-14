@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: /pins
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -15,7 +15,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  about: /about/
+  # about: /about/
   articles: /archives/
   projects: projects_url
 
@@ -25,11 +25,6 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
-  twitter: /
-  facebook: /
-  linkedin: /
-  mail: mailto:name@email.com
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -78,10 +73,10 @@ copyright:
 #   - gravatar: whether to use your Gravatar as the logo
 #   - grayout: whether to enable a hover effect on the logo
 logo:
-  enabled: true
+  enabled: false
   width: 50
   height: 50
-  url: /images/logo.png
+  url: /images/cactus-logo.png
   gravatar: false
   grayout: true
 

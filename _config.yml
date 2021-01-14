@@ -4,11 +4,11 @@
 
 # Site
 title: ce-trencada
-subtitle: ''
+subtitle: 'Aleatorietats que de tant a tant va bé tenir a mà'
 description: ''
 keywords:
-author: \\ç
-language: en
+author:
+language: ca
 timezone: ''
 
 # URL
@@ -106,10 +106,8 @@ theme_config:
 
 nav:
   home: /
-  about: /about/
   articles: /archives/
-  projects: http://github.com/probberechts
-  LINK_NAME: URL
+  projects: /
 
 ### !CACTUS
 
