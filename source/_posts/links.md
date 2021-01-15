@@ -1,7 +1,17 @@
 title: Links
+category: utils
 ---
 
 ## Esquemes
+
+- [draw.io](https://app.diagrams.net/) - Creador d'esquemes gratuït. Guanya molt si ho estilitzem tal que:
+  - Color de línia: `007FFF`
+  - Gruix: 2pt
+  - Text: Verdana
+  - Dark theme
+- [LucidCharts](https://www.lucidchart.com/) - Versió gratuïta. Molt bo per arquitectures cloud, bona integració de networking.
+- [Mermaid.js](https://mermaid-js.github.io/mermaid/#/) - Gràfic en forma de codi, es pot renderitzar en Markdown (alguns intèrprets).
+- 💛 [JDL-Studio](https://start.jhipster.tech/jdl-studio/) - Molt bona representació de Data Models en codi (JSON).
 
 ## Disseny
 
@@ -13,7 +23,7 @@ title: Links
 ### Assets 
 
 - [Coolors.co](https://coolors.co/generate) - Generador paletes de colors de forma ràpida.
-- [Undraw.co](https://undraw.co/illustrations) - Il·lustracions en SVG on podem modificar el color d'accent.
+- 💛 [Undraw.co](https://undraw.co/illustrations) - Il·lustracions en SVG on podem modificar el color d'accent.
 - [Tailwingcss](https://tailwindcss.com/resources) - Sistema de CSS.
 - [FontIcon](https://gauger.io/fonticon/) - Generador d'icones amb Font Awesome.
 - [Emojipedia.org](https://emojipedia.org/) - Enciclopèdia d'emojis que podem anar copiant.
