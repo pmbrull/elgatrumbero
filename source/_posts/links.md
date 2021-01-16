@@ -1,5 +1,7 @@
 title: Links
-category: utils
+date: 2021-01-14 11:10:00
+categories:
+  - Utils
 ---
 
 ## Esquemes
@@ -31,6 +33,8 @@ category: utils
 ## Azure
 
 ## DevOps
+
+- [Agile](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/agile-process?view=azure-devops) - Docs Agile amb Azure DevOps Boards.
 
 ## Scala
 

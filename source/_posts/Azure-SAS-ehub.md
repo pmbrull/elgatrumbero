@@ -1,6 +1,8 @@
-date: 2021-01-15 15:42:00
 title: Azure SAS EventHub
-category: azure
+date: 2021-01-15 15:42:00
+categories: 
+  - Cloud
+  - Azure
 ----
 
 Quan tenim un EHUB dins d'un `namespace` al Event Hub i hem d'enviar missatges - per exemple des del Postman - ens cal un header d'autorització tal que `SharedAccessSignature sr=...`.

@@ -3,5 +3,10 @@
        "name":"Links",
        "url":"/links",
        "desc":"Pàgines que val la pena tenir controlades."
-    }
+    },
+    {
+        "name":"TODO",
+        "url":"/TODO",
+        "desc":"Notes sobre punts que m'agradaria anar anotant."
+     }
 ]
