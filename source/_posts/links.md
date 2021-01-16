@@ -32,6 +32,8 @@ categories:
 
 ## Azure
 
+- [Certifications](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=azure%2Cothers&expanded=others) - Certificacions Azure.
+
 ## DevOps
 
 - [Agile](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/agile-process?view=azure-devops) - Docs Agile amb Azure DevOps Boards.
