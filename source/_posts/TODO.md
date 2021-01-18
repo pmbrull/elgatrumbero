@@ -21,7 +21,9 @@ Llistat de temes per anar revisant i afegint:
 
 ## Spark
 
-- Databricks Certified
+- [Databricks Certified](https://academy.databricks.com/category/certifications)
+  - Associate Developer
+  - Coming soon: Professional Data Engineer
 
 ## DevOps
 
