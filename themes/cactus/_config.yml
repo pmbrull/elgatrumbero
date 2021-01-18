@@ -73,10 +73,10 @@ copyright:
 #   - gravatar: whether to use your Gravatar as the logo
 #   - grayout: whether to enable a hover effect on the logo
 logo:
-  enabled: false
+  enabled: true
   width: 50
   height: 50
-  url: /images/cactus-logo.png
+  url: /images/akira.png
   gravatar: false
   grayout: true
 
@@ -91,13 +91,13 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/favicon.ico
+    url: /images/akira.ico
     gravatar: false
   android:
-    url: /images/favicon-192x192.png
+    url: /images/akira.png
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: /images/akira.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
