@@ -1,5 +1,5 @@
 title: Diferència vs. Rellevància
-data: 2021-01-16 19:25:00
+date: 2021-01-16 19:25:00
 categories:
   - Estratègia
   - Marketing
