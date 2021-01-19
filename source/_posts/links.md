@@ -41,3 +41,7 @@ categories:
 ## Scala
 
 ## Python
+
+## Utilitats
+
+- [Cursor Highlight](/cursor-highlight) - Eina per emfatitzar el cursor durant presentacions o classes.
