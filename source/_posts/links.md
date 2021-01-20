@@ -42,6 +42,9 @@ categories:
 
 ## Python
 
+- [Virtualenv](https://docs.python-guide.org/dev/virtualenvs/#lower-level-virtualenv) - Virtualitzar environments.
+- [pre-commit](https://pre-commit.com/) - Framework per gestionar git hooks.
+
 ## Utilitats
 
 - [Cursor Highlight](/cursor-highlight) - Eina per emfatitzar el cursor durant presentacions o classes.
