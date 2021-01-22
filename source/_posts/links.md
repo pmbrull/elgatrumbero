@@ -6,11 +6,7 @@ categories:
 
 ## Esquemes
 
-- [draw.io](https://app.diagrams.net/) - Creador d'esquemes gratuït. Guanya molt si ho estilitzem tal que:
-  - Color de línia: `007FFF`
-  - Gruix: 2pt
-  - Text: Verdana
-  - Dark theme
+- [draw.io](https://app.diagrams.net/) - Creador d'esquemes gratuït. [Enllaç](/drawio) a l'esquema.
 - [LucidCharts](https://www.lucidchart.com/) - Versió gratuïta. Molt bo per arquitectures cloud, bona integració de networking.
 - [Mermaid.js](https://mermaid-js.github.io/mermaid/#/) - Gràfic en forma de codi, es pot renderitzar en Markdown (alguns intèrprets).
 - 💛 [JDL-Studio](https://start.jhipster.tech/jdl-studio/) - Molt bona representació de Data Models en codi (JSON).
