@@ -22,7 +22,8 @@ Si descarreguem l'aplicació d'escriptori podem guardar-nos la configuració que
     "edgeStyle": "orthogonalEdgeStyle",
     "jettySize": "auto",
     "orthogonalLoop": "1",
-    "strokeColor": "#007FFF"
+    "strokeColor": "#007FFF",
+    "strokeWidth": "2"
   }
 }
 ```
